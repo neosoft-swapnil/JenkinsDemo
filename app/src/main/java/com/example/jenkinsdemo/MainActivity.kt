@@ -21,6 +21,9 @@ class MainActivity : AppCompatActivity() {
 
         // TEST COMMIT
 
+
+
+
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
