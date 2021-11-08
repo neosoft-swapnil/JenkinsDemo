@@ -27,6 +27,8 @@ class FirstFragment : Fragment() {
         //TEST COMMIT
 
 
+        // NEXT COMMIT
+
         _binding = FragmentFirstBinding.inflate(inflater, container, false)
         return binding.root
 
